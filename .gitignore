@@ -1,0 +1,15 @@
+# secrets / env
+.env
+*.env
+
+# volumes / data
+**/data/
+**/db_data/
+**/mail_data/
+**/samba_data/
+**/ftp_data/
+**/grafana_data/
+
+# logs
+*.log
+logs/
